@@ -15,7 +15,7 @@ Bilingualism (EN + FR) ➤ Leveraged 1y 8m (less than the average time of 2-3 ye
 # Education
 ## Master of Business Administration: Human Resource
 Symbiosis Institute of Business Management (among the top 20 B-Schools in India) | Jun-2013 to Apr-2015
-##Bachelor of Engineering: Civil Engineering
+## Bachelor of Engineering: Civil Engineering
 Gujarat Technological University | Jul-2009 to May-2013
 
 # Certifications
